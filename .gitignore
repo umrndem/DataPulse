@@ -1,0 +1,23 @@
+# Environments
+venv/
+.env
+
+# Python cache
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.zip
+
+# Local duplicate/export folders
+DataPulse_runnable/
+
+# Local scratch scripts
+test_auth.py
+
+# Streamlit specific
+.streamlit/

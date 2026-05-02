@@ -1,0 +1,7 @@
+# Optional reference mapping for manual overrides
+# Update these values if your dataset uses different column names.
+BUSINESS_NAME: datapulse
+DATE_COL: order_purchase_timestamp
+VALUE_COL: price
+ID_COL: order_id
+USER_COL: customer_unique_id
